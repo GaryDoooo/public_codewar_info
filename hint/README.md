@@ -18,7 +18,7 @@ The 3D nets always have a cube folding into the 4th dimension. This is the harde
     | C |
     +---+
 ```
-![](https://github.com/GaryDoooo/codewars/blob/master/folding_tesseract/ex1.png?raw=true)
+![](https://github.com/GaryDoooo/public_codewar_info/blob/main/ex1.png?raw=true)
 
-### [More hints, if you like.](https://github.com/GaryDoooo/codewars/tree/master/folding_tesseract/hint/morehint.md)
+### [More hints, if you like.](https://github.com/GaryDoooo/public_codewar_info/blob/main/hint/morehint.md)
 
