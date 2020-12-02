@@ -20,4 +20,8 @@ In the examples, vertex 2 has three neighbors: 1, 2, and 4.
 
 But real possible connections on a cylinder will have trickier cases. Simply looking at one vertex's neighbors is not enough. 
 
+This's just about how I solved the problem. There must be better ways. 
+
+I even don't know if the algorithm works all correctly. So far by my manually checking, its output looks right. In case you find any errors, please don't hesitate to let me know. Thanks!
+
 GLHF
